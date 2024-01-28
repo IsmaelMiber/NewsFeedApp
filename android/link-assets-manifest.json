@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Sono-Bold.ttf",
+      "sha1": "781c87f16725eff3ecb636ef2708c10922f719be"
+    },
+    {
+      "path": "assets/fonts/Sono-Medium.ttf",
+      "sha1": "02662404297883013aa32e927d4fe9ccca1f6b32"
+    },
+    {
+      "path": "assets/fonts/Sono-Regular.ttf",
+      "sha1": "ffd538e5ac4dcfcdc565bd40872e0b693e97966f"
+    }
+  ]
+}
